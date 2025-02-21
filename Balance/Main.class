@@ -1,0 +1,12 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+import Balance.Account;
+
+public class Main {
+   public Main() {
+   }
+
+   public static void main(String[] var0) {
+      Account var1 = new Account(4000.0);
+      var1.Display_Balance();
+   }
+}
